@@ -7,9 +7,9 @@
 export default {
 	twitterTrackers: [
 		{
-			user: 'kyexyz_',
-			token: '',
+			user: 'offyed',
+			token: 'AAAAAAAAAAAAAAAAAAAAAHNFlAEAAAAAuEjc4oGuajSCb%2FgBUkvY9bctN%2Fo%3DFfN4DyQZqmC7qcGAoMcGEDM6um9QvkQNuodwQuzO9smBud9paU',
 		},
 	],
-	youtubeTrackers: ['UCxsk7hqE_CwZWGEJEkGanbA', 'UC_x5XG1OV2P6uZZ5FSM9Ttw'],
+	youtubeTrackers: ['P8RVJsoE4tZk2_vbevA1MQ', 'UCP8RVJsoE4tZk2_vbevA1MQ'],
 }
